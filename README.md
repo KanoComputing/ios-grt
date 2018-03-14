@@ -5,12 +5,12 @@ The project builds into a CocoaTouch Framework for iOS.
 
 At the moment, it exposes the following classes:
 
-    * DTWa
-    * HMM
-    * TimeSeriesClassificationData
-    * MatrixFloat
-    * VectorFloat
-    * KMeansQuantizer
+ * DTWa
+ * HMM
+ * TimeSeriesClassificationData
+ * MatrixFloat
+ * VectorFloat
+ * KMeansQuantizer
 
 ## Build
 
