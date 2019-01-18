@@ -1,5 +1,7 @@
 # ios-grt
 
+**January 2019**: 🚨 An unmaintained proof of concept.
+
 An incomplete Objective-C wrapper for the [GRT library](https://github.com/nickgillian/grt).
 The project builds into a CocoaTouch Framework for iOS.
 
